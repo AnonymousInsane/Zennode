@@ -1,0 +1,20 @@
+Q :- Why do you like to join as a Software developer?
+Ans :- I want to be a software developer because designing computer programs lets me use my creative and problem-solving skills. Software development was my initial career path because IT field always attract me to learn new technologies and in IT field i can develop new skills by learning them.
+
+Q :- List top 3 softwares/ tools that inspire you . Why do these tools inspire you ? 
+Ans :- 1. Github -Github insipres me because it is a open source where anyone can help in your project or you can share your projects with anyone. With help of this any person can get help from your project.
+2. Visual Studio :- Vs Code inpires me because it is best IDE i have ever used for programming because in Vs code i can develop any kind of programs by just downloading there extentions and we can easily use it in our program.
+3. IntelliJ Idea :- It is IDE for java where i can write java code. I am using it since i started learning java and it is one of the best IDE for java development.
+
+Q :- List top 3 organisations you like to join in your career & why you like these organisations?
+Ans : - 1. Zennode 2. Google 3. Amazon
+	I want to join these companies because here i can develop my personal skills which makes me valuable asset to the company.
+
+Q :- How you position yourself in this industry after 2 years? 
+Ans :- In 2 years, i would love to be an industry expert that others can go to for ideas, help and strategy.
+
+Q :- List 3 projects / products you have built or have planned to bulid in the upcoming year, also explain your role in the same.
+Ans :- I have developed 2 projects :- 
+	1. Library Management System
+	2. Coding School website
+	I both projects i was the main developer and My dream project is to develop a web application in which any application we can test. That application will write test cases and test scenerios and it will test that application itself and show the output.
